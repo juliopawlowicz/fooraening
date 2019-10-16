@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiceesuyi.gn-cha.com/sitemap.xml
